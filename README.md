@@ -1,7 +1,9 @@
 # Dogs VS Cats
 
-Mini Site pour Tester un Modèle de Deep Learning
-Ce mini site vous permet de tester un modèle de deep learning à l'aide d'une interface web simple. Suivez les instructions ci-dessous pour l'utiliser correctement.
+Mini Site pour Tester un Modèle de Deep Learning.
+Ce mini site vous permet de tester un modèle de deep learning à l'aide d'une interface web simple.
+
+Suivez les instructions ci-dessous pour l'utiliser correctement.
 
 ## Prérequis
 Python 3.11 ou supérieur doit être installé sur votre machine.
@@ -11,7 +13,7 @@ Installation
 Clonez ce dépôt sur votre machine :
 
 ```bash
-git clone https://github.com/votre-utilisateur/mini-site-deep-learning.git
+git clone https://github.com/Thodler/DogsVSCats.git
 ```
 Accédez au répertoire du projet :
 
