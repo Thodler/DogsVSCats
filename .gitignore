@@ -1,0 +1,4 @@
+.venv
+.idea
+model.keras
+image_check/img.jpg
